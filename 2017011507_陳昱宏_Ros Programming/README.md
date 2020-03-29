@@ -25,9 +25,9 @@ Author: Chen YuHong
 ——————————CMakeLists.txt  
 ——————————package.xml  
 ## 第二部分：编译执行
-    将文件夹中的husky_rcl_controller和husky_rcl_controller_srv放到本地的catkin工作空间下的src目录，执行以下指令即可编译，  
+将文件夹中的husky_rcl_controller和husky_rcl_controller_srv放到本地的catkin工作空间下的src目录，执行以下指令即可编译，  
 `$ catkin build husky_rcl_controller`  
-    编译后，利用rosrun命令可以运行该节点，  
+编译后，利用rosrun命令可以运行该节点，  
 `$ rosrun husky_rcl_controller husky_rcl_controller`  
 
 ## 第三部分：各个源码文件的作用
