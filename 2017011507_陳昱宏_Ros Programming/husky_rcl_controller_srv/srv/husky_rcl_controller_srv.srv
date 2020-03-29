@@ -1,0 +1,6 @@
+float64 targetX
+float64 targetY
+float64 targetOrientationZ
+---
+bool result
+float64 timeCost
