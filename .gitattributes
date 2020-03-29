@@ -1,1 +1,9 @@
-.tex linguist-language=c++
+.tex linguist-language=C++
+.aux linguist-language=C++
+.bbl linguist-language=C++
+.blg linguist-language=C++
+.brf linguist-language=C++
+.log linguist-language=C++
+.out linguist-language=C++
+.gz linguist-language=C++
+.toc linguist-language=C++
