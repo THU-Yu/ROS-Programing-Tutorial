@@ -1,4 +1,6 @@
 # Ros Programming
+Platform: Ubuntu 16.04
+ROS Version: ros-kinetic
 Author: Chen YuHong
 
 ## 第一部分：文件目录
